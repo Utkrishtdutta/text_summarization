@@ -1,4 +1,4 @@
-# Streamlit Summarizer
+# Text Summarizer App using streamlit
 
 Welcome to Streamlit Summarizer, where you can effortlessly summarize uploaded text, documents, or fetch content directly from a provided URL. We offer various summarization mechanisms, including both Abstraction-based and Extraction-based approaches.
 
