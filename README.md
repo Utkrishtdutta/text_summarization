@@ -4,6 +4,12 @@ Welcome to Streamlit Summarizer, where you can effortlessly summarize uploaded t
 
 Additionally, we've integrated OpenAI GPT-3.5 as a powerful summarization technique.
 
+## Contributors
+
+**Utkrisht Dutta**
+   - [LinkedIn](https://www.linkedin.com/in/utkrisht-dutta-4b4bb5241/)
+   - Email: [utkrishtdutta@gmail.com](utkrishtdutta@gmail.com)
+
 ## How to Use
 
 1. **Summarize Uploaded Text or Documents:**
@@ -31,7 +37,7 @@ Harnessing the power of OpenAI GPT-3.5, we bring state-of-the-art language model
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Utkrishtdutta/text_summarization.git
+    git clone [https://github.com/Utkrishtdutta/text_summarization.git](https://github.com/Utkrishtdutta/text_summarization.git)
     cd summarizer-app
     ```
 
